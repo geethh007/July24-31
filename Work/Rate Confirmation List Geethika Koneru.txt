@@ -1,0 +1,17 @@
+1)Neha-july 25th-55$
+2)Nikhil-july 29th-46$
+3)Roopesh-July 29th-52$
+4)Bob-july 29th-50$
+5) Raj-July 29th-40$
+6) Vishwanthan- July 28th- 50$
+7) Collen- July 25th- 60$
+
+Missed Interviews Before week:
+
+Apex systems client UHG_OPTUM
+One python position
+one Fanneimae Client position
+
+Next Week:
+Protractor
+Appium
